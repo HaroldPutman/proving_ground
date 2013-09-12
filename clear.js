@@ -1,3 +1,3 @@
 (function(){
-	$('p').html('CENSORED');
+	$('p').html('booyah');
 })();
