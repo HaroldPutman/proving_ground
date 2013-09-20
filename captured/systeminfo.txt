@@ -1,0 +1,235 @@
+
+Host Name:                 HPUTMAN-WIN7
+OS Name:                   Microsoft Windows 7 Professional 
+OS Version:                6.1.7601 Service Pack 1 Build 7601
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Lexmark User
+Registered Organization:   Lexmark International
+Product ID:                00371-868-0000007-85163
+Original Install Date:     1/22/2013, 2:48:26 PM
+System Boot Time:          9/18/2013, 8:17:06 AM
+System Manufacturer:       Dell Inc.
+System Model:              Latitude E6520
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 42 Stepping 7 GenuineIntel ~2501 Mhz
+BIOS Version:              Dell Inc. A14, 7/11/2012
+Windows Directory:         C:\windows
+System Directory:          C:\windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     3,977 MB
+Available Physical Memory: 874 MB
+Virtual Memory: Max Size:  8,071 MB
+Virtual Memory: Available: 4,019 MB
+Virtual Memory: In Use:    4,052 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    na.ds.lexmark.com
+Logon Server:              \\USLEXDCT04
+Hotfix(s):                 185 Hotfix(s) Installed.
+                           [01]: KB2764913
+                           [02]: KB2764916
+                           [03]: KB2718695
+                           [04]: KB2670838
+                           [05]: KB971033
+                           [06]: KB958559
+                           [07]: KB2425227
+                           [08]: KB2443101
+                           [09]: KB2479943
+                           [10]: KB2484033
+                           [11]: KB2488113
+                           [12]: KB2491683
+                           [13]: KB2492386
+                           [14]: KB2505438
+                           [15]: KB2506014
+                           [16]: KB2506212
+                           [17]: KB2506928
+                           [18]: KB2507618
+                           [19]: KB2509553
+                           [20]: KB2511250
+                           [21]: KB2511455
+                           [22]: KB2515325
+                           [23]: KB2522422
+                           [24]: KB2529073
+                           [25]: KB2533552
+                           [26]: KB2536275
+                           [27]: KB2536276
+                           [28]: KB2541014
+                           [29]: KB2544893
+                           [30]: KB2545698
+                           [31]: KB2547666
+                           [32]: KB2552343
+                           [33]: KB2560656
+                           [34]: KB2563227
+                           [35]: KB2564958
+                           [36]: KB2567680
+                           [37]: KB2570947
+                           [38]: KB2574819
+                           [39]: KB2579686
+                           [40]: KB2584146
+                           [41]: KB2585542
+                           [42]: KB2603229
+                           [43]: KB2604115
+                           [44]: KB2618451
+                           [45]: KB2619339
+                           [46]: KB2620704
+                           [47]: KB2620712
+                           [48]: KB2621440
+                           [49]: KB2631813
+                           [50]: KB2633952
+                           [51]: KB2640148
+                           [52]: KB2644615
+                           [53]: KB2645640
+                           [54]: KB2647753
+                           [55]: KB2653956
+                           [56]: KB2654428
+                           [57]: KB2655992
+                           [58]: KB2656356
+                           [59]: KB2656373
+                           [60]: KB2656411
+                           [61]: KB2658846
+                           [62]: KB2659262
+                           [63]: KB2660075
+                           [64]: KB2660649
+                           [65]: KB2661254
+                           [66]: KB2667402
+                           [67]: KB2676562
+                           [68]: KB2677070
+                           [69]: KB2679255
+                           [70]: KB2685811
+                           [71]: KB2685813
+                           [72]: KB2685939
+                           [73]: KB2686831
+                           [74]: KB2688338
+                           [75]: KB2690533
+                           [76]: KB2691442
+                           [77]: KB2695962
+                           [78]: KB2698365
+                           [79]: KB2699779
+                           [80]: KB2705219
+                           [81]: KB2706045
+                           [82]: KB2709630
+                           [83]: KB2709715
+                           [84]: KB2709981
+                           [85]: KB2712808
+                           [86]: KB2718704
+                           [87]: KB2719857
+                           [88]: KB2719985
+                           [89]: KB2722913
+                           [90]: KB2724197
+                           [91]: KB2726535
+                           [92]: KB2727528
+                           [93]: KB2729094
+                           [94]: KB2729452
+                           [95]: KB2731847
+                           [96]: KB2732059
+                           [97]: KB2732487
+                           [98]: KB2732500
+                           [99]: KB2735855
+                           [100]: KB2736233
+                           [101]: KB2736422
+                           [102]: KB2739159
+                           [103]: KB2741355
+                           [104]: KB2742599
+                           [105]: KB2743555
+                           [106]: KB2749655
+                           [107]: KB2750841
+                           [108]: KB2753842
+                           [109]: KB2756921
+                           [110]: KB2757638
+                           [111]: KB2758857
+                           [112]: KB2761217
+                           [113]: KB2761465
+                           [114]: KB2762895
+                           [115]: KB2763523
+                           [116]: KB2769369
+                           [117]: KB2770660
+                           [118]: KB2773072
+                           [119]: KB2775511
+                           [120]: KB2778344
+                           [121]: KB2778930
+                           [122]: KB2779562
+                           [123]: KB2785220
+                           [124]: KB2786081
+                           [125]: KB2786400
+                           [126]: KB2789645
+                           [127]: KB2790113
+                           [128]: KB2790655
+                           [129]: KB2791765
+                           [130]: KB2792100
+                           [131]: KB2794119
+                           [132]: KB2798162
+                           [133]: KB2799494
+                           [134]: KB2799926
+                           [135]: KB2803821
+                           [136]: KB2804579
+                           [137]: KB2807986
+                           [138]: KB2808679
+                           [139]: KB2808735
+                           [140]: KB2809289
+                           [141]: KB2813170
+                           [142]: KB2813347
+                           [143]: KB2813430
+                           [144]: KB2813956
+                           [145]: KB2817183
+                           [146]: KB2820197
+                           [147]: KB2820331
+                           [148]: KB2821346
+                           [149]: KB2823324
+                           [150]: KB2829361
+                           [151]: KB2829530
+                           [152]: KB2830290
+                           [153]: KB2832414
+                           [154]: KB2833946
+                           [155]: KB2834140
+                           [156]: KB2834886
+                           [157]: KB2835361
+                           [158]: KB2835364
+                           [159]: KB2836502
+                           [160]: KB2836943
+                           [161]: KB2838727
+                           [162]: KB2839894
+                           [163]: KB2840149
+                           [164]: KB2840631
+                           [165]: KB2844286
+                           [166]: KB2845187
+                           [167]: KB2845690
+                           [168]: KB2846071
+                           [169]: KB2847927
+                           [170]: KB2849470
+                           [171]: KB2850851
+                           [172]: KB2853952
+                           [173]: KB2859903
+                           [174]: KB2861855
+                           [175]: KB2862772
+                           [176]: KB2862966
+                           [177]: KB2863058
+                           [178]: KB2868116
+                           [179]: KB2868623
+                           [180]: KB2870699
+                           [181]: KB2872339
+                           [182]: KB2876315
+                           [183]: KB958488
+                           [184]: KB976902
+                           [185]: KB982018
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Intel(R) Centrino(R) Ultimate-N 6300 AGN
+                                 Connection Name: Wireless Network Connection
+                                 Status:          Media disconnected
+                           [02]: Intel(R) 82579LM Gigabit Network Connection
+                                 Connection Name: Local Area Connection
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     157.184.202.202
+                                 IP address(es)
+                                 [01]: 157.184.161.241
+                                 [02]: fe80::1c57:5a7c:6984:bcd1
+                           [03]: Cisco Systems VPN Adapter for 64-bit Windows
+                                 Connection Name: Local Area Connection 2
+                                 Status:          Hardware not present
+                           [04]: Cisco AnyConnect VPN Virtual Miniport Adapter for Windows x64
+                                 Connection Name: Local Area Connection 3
+                                 Status:          Hardware not present
