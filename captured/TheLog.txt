@@ -1,0 +1,272 @@
+﻿2013-09-20 17:57:40.1314|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.ShellViewModel.
+2013-09-20 17:46:59.6414|INFO|thread:1|GitHub.Models.UserSettingsModel|Refreshing user settings
+2013-09-20 17:47:00.1624|INFO|thread:1|GitHub.Models.UserSettingsModel|Refreshed user settings
+2013-09-20 17:47:00.2374|INFO|thread:1|GitHub.Models.RepositoryHosts|Cache did not contain an Enterprise host URI.
+System.Collections.Generic.KeyNotFoundException: The given key 'enterprise-host-api-base-uri' was not present in the cache.
+2013-09-20 17:47:00.5624|WARN|thread:1|LogHost|SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2013-09-20 17:47:00.5624|WARN|thread:1|LogHost|have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2013-09-20 17:47:00.5624|WARN|thread:1|LogHost|and friends will appear to 'miss' items
+2013-09-20 17:47:01.1274|INFO|thread:6|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\hputman\AppData\Local\GitHub\Cef_115967
+2013-09-20 17:47:01.1274|INFO|thread:6|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13
+2013-09-20 17:47:01.1274|INFO|thread:6|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\hputman\AppData\Local\GitHub\PoshGit_8aecd991d8ccf3dc78b8cd397ee4e1595f8556d4
+2013-09-20 17:47:01.4054|INFO|thread:1|GitHub.Helpers.CommandLineHandler|Started app with command: 
+2013-09-20 17:47:01.4184|INFO|thread:1|GitHub.Helpers.CommandLineHandler|Parsing command line arguments:
+2013-09-20 17:47:01.4184|INFO|thread:1|GitHub.Helpers.CommandLineHandler|
+C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4\GitHub.exe
+2013-09-20 17:47:01.4184|INFO|thread:1|GitHub.Helpers.AppInstanceCommunicator|Starting up as master instance of GitHub for Windows
+2013-09-20 17:47:01.5304|INFO|thread:1|GitHub.UI.Helpers.HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2013-09-20 17:47:01.5304|INFO|thread:1|GitHub.UI.Helpers.HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2013-09-20 17:47:01.8634|INFO|thread:6|GitHub.AppStartup.StartupLogging| #########################################
+2013-09-20 17:47:01.8634|INFO|thread:6|GitHub.AppStartup.StartupLogging| GitHub for Windows started. VERSION: 1.0.57.0
+2013-09-20 17:47:01.8634|INFO|thread:6|GitHub.AppStartup.StartupLogging| Build version: 9d28829ddede4da8a0221dd7008f8fa1c2a4f7ec
+2013-09-20 17:47:01.8634|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***************************************
+2013-09-20 17:47:01.8634|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-09-20 17:47:01.8634|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-09-20 17:47:01.8634|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***        Have a problem?          ***
+2013-09-20 17:47:01.8634|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***    Email support@github.com     ***
+2013-09-20 17:47:01.8634|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***      and include this file      ***
+2013-09-20 17:47:01.8634|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-09-20 17:47:01.8634|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***                                 ***
+2013-09-20 17:47:01.8634|INFO|thread:6|GitHub.AppStartup.StartupLogging| ***************************************
+2013-09-20 17:47:01.8634|INFO|thread:6|GitHub.AppStartup.StartupLogging| OS Version: Windows 7 Service Pack 1 6.1.7601.65536 amd64
+2013-09-20 17:47:01.8634|INFO|thread:6|GitHub.AppStartup.StartupLogging| CLR Version: 4.0.30319.18052
+2013-09-20 17:47:01.8634|INFO|thread:6|GitHub.AppStartup.StartupLogging| Current culture: en-US
+2013-09-20 17:47:01.9354|INFO|thread:6|GitHub.AppStartup.StartupLogging| Terminal Services session: no
+2013-09-20 17:47:01.9354|INFO|thread:6|GitHub.AppStartup.StartupLogging| Location: C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4\GitHub.exe
+2013-09-20 17:47:02.0584|INFO|thread:6|GitHub.AppStartup.StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2013-09-20 17:47:02.2174|INFO|thread:6|GitHub.IO.SshAgentBridge|ssh-agent is not running
+2013-09-20 17:47:02.2174|INFO|thread:6|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2013-09-20 17:47:02.2174|INFO|thread:6|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\Program Files (x86)\ActiveState Komodo Edit 8\;C:\Program Files (x86)\ImageMagick-6.8.3-Q16;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\PROGRA~1\Java\jdk1.7.0_11\bin;c:\Users\hputman\Documents\jboss-as-7.1.1.Final\bin;C:\xampp\mysql\bin;C:\xampp\php;C:\Program Files\nodejs\;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Git\bin;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\sbt\;C:\Program Files\Apache Software Foundation\apache-maven-3.0.5\bin;C:\Users\hputman\Documents\AEM-author\crx-quickstart\opt\filevault\vault-cli-2.4.34\bin;C:\Program Files (x86)\Apache\Ant\bin;C:\Users\hputman\AppData\Roaming\npm\;c:\Program Files\Saxonica\SaxonHE9.4N\bin
+2013-09-20 17:47:02.2174|INFO|thread:6|GitHub.AppStartup.StartupLogging| =====================================================
+2013-09-20 17:47:02.2174|INFO|thread:6|GitHub.AppStartup.StartupLogging|  DIAGNOSTICS                                        |
+2013-09-20 17:47:02.2174|INFO|thread:6|GitHub.AppStartup.StartupLogging| =====================================================
+2013-09-20 17:47:02.2524|INFO|thread:6|GitHub.AppStartup.StartupLogging| Git Extracted: 'True:
+2013-09-20 17:47:02.2524|INFO|thread:6|GitHub.AppStartup.StartupLogging| PortableGit Dir Exists: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13'
+2013-09-20 17:47:02.2804|INFO|thread:6|GitHub.AppStartup.StartupLogging| Git Executable Exists: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\git.exe'
+2013-09-20 17:47:02.2804|INFO|thread:6|GitHub.AppStartup.StartupLogging| ----------------------------------------------------
+2013-09-20 17:47:02.2804|INFO|thread:6|GitHub.AppStartup.StartupLogging| PATH: C:\Program Files (x86)\ActiveState Komodo Edit 8\;C:\Program Files (x86)\ImageMagick-6.8.3-Q16;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\PROGRA~1\Java\jdk1.7.0_11\bin;c:\Users\hputman\Documents\jboss-as-7.1.1.Final\bin;C:\xampp\mysql\bin;C:\xampp\php;C:\Program Files\nodejs\;C:\Program Files (x86)\Git\cmd;C:\Program Files (x86)\Git\bin;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\sbt\;C:\Program Files\Apache Software Foundation\apache-maven-3.0.5\bin;C:\Users\hputman\Documents\AEM-author\crx-quickstart\opt\filevault\vault-cli-2.4.34\bin;C:\Program Files (x86)\Apache\Ant\bin;C:\Users\hputman\AppData\Roaming\npm\;c:\Program Files\Saxonica\SaxonHE9.4N\bin
+2013-09-20 17:47:02.5534|INFO|thread:6|GitHub.Helpers.StartupLogger|Proxy information: (None)
+2013-09-20 17:47:02.5534|INFO|thread:6|GitHub.Helpers.StartupLogger|Couldn't fetch creds for proxy
+2013-09-20 17:47:02.5604|INFO|thread:6|GitHub.Helpers.UrlProtocolInstaller|URL Protocol already registered
+2013-09-20 17:47:02.8904|INFO|thread:1|GitHub.Helpers.ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4\Images\App.ico'
+2013-09-20 17:47:05.0644|WARN|thread:1|POCOObservableForProperty|GitHub.Views.TwoFactorView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2013-09-20 17:47:05.1084|WARN|thread:1|POCOObservableForProperty|GitHub.Views.Controls.AvatarPanel is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2013-09-20 17:47:05.1234|WARN|thread:1|POCOObservableForProperty|GitHub.Views.UndoFlashView is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2013-09-20 17:47:05.8334|INFO|thread:1|GitHub.ViewModels.GitExtractionVisualHelper|Portable Git is already extracted
+2013-09-20 17:47:05.9114|INFO|thread:6|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\hputman\AppData\Local\GitHub\Cef_115967
+2013-09-20 17:47:05.9114|INFO|thread:6|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13
+2013-09-20 17:47:05.9114|INFO|thread:6|GitHub.Helpers.PortablePackageManager|Examining package dir C:\Users\hputman\AppData\Local\GitHub\PoshGit_8aecd991d8ccf3dc78b8cd397ee4e1595f8556d4
+2013-09-20 17:47:06.5014|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2013-09-20 17:47:06.8014|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2013-09-20 17:47:09.8594|WARN|thread:1|LogHost|SuppressChangeNotifications was called (perhaps via AddRange), yet you do not
+2013-09-20 17:47:09.8594|WARN|thread:1|LogHost|have a subscription to ShouldReset. This probably isn't what you want, as ItemsAdded
+2013-09-20 17:47:09.8594|WARN|thread:1|LogHost|and friends will appear to 'miss' items
+2013-09-20 17:47:11.2844|INFO|thread:4|GitHub.Helpers.GitConfig|Reading global git configuration for user.name and user.email
+2013-09-20 17:47:11.5244|INFO|thread:15|GitHub.ViewModels.ApplicationShellInitializer|Running post login tasks. ~/.gitconfig is set up with user.name = 'Harold Putman' and user.email = 'hputman@lexmark.com'
+2013-09-20 17:47:11.5334|INFO|thread:7|GitHub.IO.SshAgentBridge|ssh-agent is not running
+2013-09-20 17:47:11.5334|INFO|thread:7|GitHub.PortableGit.Helpers.SSHKeyHelper|Found existing SSH key pair
+2013-09-20 17:47:11.5334|INFO|thread:4|GitHub.PortableGit.Helpers.SSHProcessManager|Starting ssh-agent.exe
+2013-09-20 17:47:11.5334|INFO|thread:4|GitHub.Helpers.PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2013-09-20 17:47:11.5454|INFO|thread:4|GitHub.IO.SshAgentBridge|ssh-agent is not running
+2013-09-20 17:47:11.5454|INFO|thread:4|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: (null):(null)
+2013-09-20 17:47:11.5454|INFO|thread:4|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\System32
+2013-09-20 17:47:11.7124|INFO|thread:4|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\ssh-agent.exe', Args: ''
+2013-09-20 17:47:12.5684|INFO|thread:4|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 9608:/tmp/ssh-xJMkXJ9352/agent.9352
+2013-09-20 17:47:12.5684|INFO|thread:4|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\System32
+2013-09-20 17:47:12.5684|INFO|thread:4|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\ssh-add.exe', Args: '"C:\Users\hputman\.ssh\github_rsa"'
+2013-09-20 17:47:12.9344|INFO|thread:4|GitHub.ViewModels.SoftwareUpdateViewModel|Checking for new version
+2013-09-20 17:47:15.0094|INFO|thread:1|GitHub.ViewModels.SoftwareUpdateViewModel|New version available: 1.1.1.0
+2013-09-20 17:53:50.5194|WARN|thread:4|GitHub.Api.Extensions.RestSharpObservableMixins|Response Failed: Status: 'Completed', StatusCode: 'Accepted', Uri: 'https://api.github.com/repos/LexmarkWeb/Kiado/stats/participation', Body: '{}'
+2013-09-20 17:53:50.5734|INFO|thread:26|GitHub.Api.Extensions.IgnoreContentHandler|Ignoring 200:OK response from https://api.github.com/markdown/raw
+2013-09-20 17:53:53.8474|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.DashboardViewModel.
+2013-09-20 17:53:53.8474|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.DashboardViewModel.
+2013-09-20 17:53:53.8474|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Activating GitHub.ViewModels.RepositoryViewModel.
+2013-09-20 17:53:53.8934|WARN|thread:1|POCOObservableForProperty|GitHub.Views.Controls.PushToHostButton is a POCO type and won't send change notifications, WhenAny will only return a single value!
+2013-09-20 17:53:54.1934|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-09-20 17:53:54.3074|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:53:54.3174|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 9608:/tmp/ssh-xJMkXJ9352/agent.9352
+2013-09-20 17:53:54.3174|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\System32
+2013-09-20 17:53:54.3174|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-09-20 17:53:54.6694|INFO|thread:26|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:53:55.9724|INFO|thread:17|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:53:57.0494|INFO|thread:1|GitHub.Models.Sync|Getting ahead/behind counts and running a full fetch.
+2013-09-20 17:53:57.0494|INFO|thread:1|GitHub.Helpers.GitRemote|Fetching 'LexmarkWeb/Kiado'
+2013-09-20 17:53:57.0604|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 9608:/tmp/ssh-xJMkXJ9352/agent.9352
+2013-09-20 17:53:57.0604|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\System32
+2013-09-20 17:53:57.0604|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\git.exe', Args: 'fetch origin +refs/heads/*:refs/remotes/origin/* +refs/pull/*/head:refs/remotes/origin/pr/* '
+2013-09-20 17:53:57.3604|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, refs/remotes/origin/master
+2013-09-20 17:53:57.3604|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:53:57.3604|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch tx-editor, refs/heads/tx-editor, 
+2013-09-20 17:53:57.3694|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch viewer-integration, refs/heads/viewer-integration, refs/remotes/origin/viewer-integration
+2013-09-20 17:53:57.3694|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch qa, refs/heads/qa, refs/remotes/origin/qa
+2013-09-20 17:53:59.4124|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Created Shadow Backup for Repo: C:\Users\hputman\Documents\GitHub\Kiado => ac3f871ec4362b1c5780cf6c4d77bf7daf2dbbf5
+2013-09-20 17:54:09.6954|INFO|thread:30|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:54:09.7084|INFO|thread:29|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:54:31.6484|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-09-20 17:54:31.7334|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:54:31.7384|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 9608:/tmp/ssh-xJMkXJ9352/agent.9352
+2013-09-20 17:54:31.7384|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\System32
+2013-09-20 17:54:31.7384|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-09-20 17:54:31.7384|INFO|thread:15|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:54:31.7834|INFO|thread:15|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:54:32.2444|INFO|thread:1|GitHub.Models.Sync|Getting ahead/behind counts but skipping the fetch.
+2013-09-20 17:54:32.2444|INFO|thread:25|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:54:32.2504|INFO|thread:4|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:54:32.2954|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, refs/remotes/origin/master
+2013-09-20 17:54:32.2974|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:54:32.2974|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch tx-editor, refs/heads/tx-editor, 
+2013-09-20 17:54:32.2974|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch viewer-integration, refs/heads/viewer-integration, refs/remotes/origin/viewer-integration
+2013-09-20 17:54:32.2974|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch qa, refs/heads/qa, refs/remotes/origin/qa
+2013-09-20 17:54:48.0954|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-09-20 17:54:48.1834|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:54:48.1834|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 9608:/tmp/ssh-xJMkXJ9352/agent.9352
+2013-09-20 17:54:48.1834|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\System32
+2013-09-20 17:54:48.1834|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-09-20 17:54:48.1994|INFO|thread:25|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:54:48.2264|INFO|thread:25|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:54:48.7394|INFO|thread:1|GitHub.Models.Sync|Getting ahead/behind counts but skipping the fetch.
+2013-09-20 17:54:48.7394|INFO|thread:25|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:54:48.7394|INFO|thread:20|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:54:48.7974|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, refs/remotes/origin/master
+2013-09-20 17:54:48.7974|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:54:48.7974|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch tx-editor, refs/heads/tx-editor, 
+2013-09-20 17:54:48.7974|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch viewer-integration, refs/heads/viewer-integration, refs/remotes/origin/viewer-integration
+2013-09-20 17:54:48.7974|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch qa, refs/heads/qa, refs/remotes/origin/qa
+2013-09-20 17:55:28.3664|INFO|thread:6|GitHub.Helpers.Git|Creating Commit
+2013-09-20 17:55:28.5954|INFO|thread:6|GitHub.Helpers.Git|Creating new commit with 13 file(s). Adding Unit testing to backbone app
+
+Here's hoping for GitHub Windows commit...
+
+2013-09-20 17:55:28.7114|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 9608:/tmp/ssh-xJMkXJ9352/agent.9352
+2013-09-20 17:55:28.7114|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\System32
+2013-09-20 17:55:28.7114|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-09-20 17:55:28.7114|INFO|thread:1|GitHub.Models.Sync|Getting ahead/behind counts but skipping the fetch.
+2013-09-20 17:55:28.7294|INFO|thread:25|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:55:28.7344|INFO|thread:25|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:55:38.1774|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-09-20 17:55:38.2254|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-09-20 17:55:38.2254|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:55:38.2384|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 9608:/tmp/ssh-xJMkXJ9352/agent.9352
+2013-09-20 17:55:38.2384|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\System32
+2013-09-20 17:55:38.2384|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-09-20 17:55:38.2384|INFO|thread:25|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:55:38.2744|INFO|thread:20|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:55:38.7834|INFO|thread:1|GitHub.Models.Sync|Getting ahead/behind counts but skipping the fetch.
+2013-09-20 17:55:38.7834|INFO|thread:20|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:55:38.7834|INFO|thread:28|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:55:38.8324|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, refs/remotes/origin/master
+2013-09-20 17:55:38.8324|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:55:38.8324|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch tx-editor, refs/heads/tx-editor, 
+2013-09-20 17:55:38.8324|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch viewer-integration, refs/heads/viewer-integration, refs/remotes/origin/viewer-integration
+2013-09-20 17:55:38.8324|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch qa, refs/heads/qa, refs/remotes/origin/qa
+2013-09-20 17:55:42.3744|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-09-20 17:55:42.4124|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:55:42.4274|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 9608:/tmp/ssh-xJMkXJ9352/agent.9352
+2013-09-20 17:55:42.4274|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\System32
+2013-09-20 17:55:42.4274|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-09-20 17:55:42.4424|INFO|thread:20|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:55:42.4764|INFO|thread:15|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:55:42.9494|INFO|thread:1|GitHub.Models.Sync|Getting ahead/behind counts but skipping the fetch.
+2013-09-20 17:55:42.9494|INFO|thread:3|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:55:42.9494|INFO|thread:25|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:55:43.0044|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, refs/remotes/origin/master
+2013-09-20 17:55:43.0044|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:55:43.0044|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch tx-editor, refs/heads/tx-editor, 
+2013-09-20 17:55:43.0044|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch viewer-integration, refs/heads/viewer-integration, refs/remotes/origin/viewer-integration
+2013-09-20 17:55:43.0044|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch qa, refs/heads/qa, refs/remotes/origin/qa
+2013-09-20 17:56:11.3614|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-09-20 17:56:11.3934|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:56:11.4014|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 9608:/tmp/ssh-xJMkXJ9352/agent.9352
+2013-09-20 17:56:11.4014|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\System32
+2013-09-20 17:56:11.4014|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-09-20 17:56:11.4014|INFO|thread:28|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:56:11.4364|INFO|thread:4|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:56:12.0014|INFO|thread:1|GitHub.Models.Sync|Getting ahead/behind counts but skipping the fetch.
+2013-09-20 17:56:12.0014|INFO|thread:4|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:56:12.0094|INFO|thread:20|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:56:12.0594|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, refs/remotes/origin/master
+2013-09-20 17:56:12.0594|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:56:12.0594|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch tx-editor, refs/heads/tx-editor, 
+2013-09-20 17:56:12.0594|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch viewer-integration, refs/heads/viewer-integration, refs/remotes/origin/viewer-integration
+2013-09-20 17:56:12.0594|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch qa, refs/heads/qa, refs/remotes/origin/qa
+2013-09-20 17:56:24.0874|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 9608:/tmp/ssh-xJMkXJ9352/agent.9352
+2013-09-20 17:56:24.0874|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\System32
+2013-09-20 17:56:24.0874|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 5e492612c2465b75b308d930e84d9fe76d49fd40 '
+2013-09-20 17:56:58.4274|INFO|thread:20|GitHub.Helpers.Git|Creating Commit
+2013-09-20 17:56:58.6174|INFO|thread:20|GitHub.Helpers.Git|Creating new commit with 7 file(s). catching the new files
+
+here we go again ;-)
+
+2013-09-20 17:56:58.6734|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 9608:/tmp/ssh-xJMkXJ9352/agent.9352
+2013-09-20 17:56:58.6734|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\System32
+2013-09-20 17:56:58.6734|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-09-20 17:56:58.6794|INFO|thread:1|GitHub.Models.Sync|Getting ahead/behind counts but skipping the fetch.
+2013-09-20 17:56:58.6794|INFO|thread:20|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:56:58.6794|INFO|thread:20|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:57:22.2164|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-09-20 17:57:22.2314|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-09-20 17:57:22.2314|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:57:22.2384|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 9608:/tmp/ssh-xJMkXJ9352/agent.9352
+2013-09-20 17:57:22.2384|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\System32
+2013-09-20 17:57:22.2384|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-09-20 17:57:22.2384|INFO|thread:28|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:57:22.2904|INFO|thread:28|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:57:22.8594|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-09-20 17:57:22.8594|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 9608:/tmp/ssh-xJMkXJ9352/agent.9352
+2013-09-20 17:57:22.8594|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\System32
+2013-09-20 17:57:22.8594|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\git.exe', Args: 'diff-tree --root -m -r -z --name-status 4f3c6531f8a36971e6fd7183021dee50dd030898 '
+2013-09-20 17:57:22.8774|INFO|thread:1|GitHub.Models.Sync|Getting ahead/behind counts but skipping the fetch.
+2013-09-20 17:57:22.8774|INFO|thread:28|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:57:22.8774|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:57:22.8774|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 9608:/tmp/ssh-xJMkXJ9352/agent.9352
+2013-09-20 17:57:22.8774|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\System32
+2013-09-20 17:57:22.8774|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-09-20 17:57:22.8774|INFO|thread:28|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:57:22.8974|INFO|thread:25|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:57:22.9424|INFO|thread:15|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:57:22.9524|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, refs/remotes/origin/master
+2013-09-20 17:57:22.9524|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:57:22.9524|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch tx-editor, refs/heads/tx-editor, 
+2013-09-20 17:57:22.9524|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch viewer-integration, refs/heads/viewer-integration, refs/remotes/origin/viewer-integration
+2013-09-20 17:57:22.9524|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch qa, refs/heads/qa, refs/remotes/origin/qa
+2013-09-20 17:57:23.6094|INFO|thread:1|GitHub.Models.Sync|Getting ahead/behind counts but skipping the fetch.
+2013-09-20 17:57:23.6094|INFO|thread:25|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:57:23.6094|INFO|thread:25|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:57:23.6794|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, refs/remotes/origin/master
+2013-09-20 17:57:23.6794|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:57:23.6794|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch tx-editor, refs/heads/tx-editor, 
+2013-09-20 17:57:23.6794|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch viewer-integration, refs/heads/viewer-integration, refs/remotes/origin/viewer-integration
+2013-09-20 17:57:23.6794|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch qa, refs/heads/qa, refs/remotes/origin/qa
+2013-09-20 17:57:24.7314|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-09-20 17:57:24.7704|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:57:24.7704|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 9608:/tmp/ssh-xJMkXJ9352/agent.9352
+2013-09-20 17:57:24.7704|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\System32
+2013-09-20 17:57:24.7704|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-09-20 17:57:24.7824|INFO|thread:36|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:57:24.8254|INFO|thread:20|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:57:25.3014|INFO|thread:1|GitHub.Models.Sync|Getting ahead/behind counts but skipping the fetch.
+2013-09-20 17:57:25.3014|INFO|thread:6|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:57:25.3084|INFO|thread:6|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:57:25.3734|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, refs/remotes/origin/master
+2013-09-20 17:57:25.3734|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:57:25.3734|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch tx-editor, refs/heads/tx-editor, 
+2013-09-20 17:57:25.3734|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch viewer-integration, refs/heads/viewer-integration, refs/remotes/origin/viewer-integration
+2013-09-20 17:57:25.3734|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch qa, refs/heads/qa, refs/remotes/origin/qa
+2013-09-20 17:57:37.3054|INFO|thread:1|GitHub.ViewModels.RepositoryViewModel|Refreshing all information for repo
+2013-09-20 17:57:37.3344|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:57:37.3344|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|Process set up with this SSH Agent info: 9608:/tmp/ssh-xJMkXJ9352/agent.9352
+2013-09-20 17:57:37.3344|INFO|thread:1|GitHub.PortableGit.Helpers.GitEnvironment|PATH is C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\cmd;C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin;C:\Users\hputman\AppData\Local\Apps\2.0\HW8ONOYN.74Q\4QHA7A93.BHC\gith..tion_317444273a93ac29_0001.0000_0b5f24f8a60558d4;C:\windows\Microsoft.NET\Framework\v4.0.30319;C:\windows\System32
+2013-09-20 17:57:37.3344|INFO|thread:1|GitHub.IO.ObservableProcess|Starting: Process - Id: '(unknown)', Name: '(unknown)', FileName: 'C:\Users\hputman\AppData\Local\GitHub\PortableGit_015aa71ef18c047ce8509ffb2f9e4bb0e3e73f13\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z '
+2013-09-20 17:57:37.3344|INFO|thread:36|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:57:37.3844|INFO|thread:36|GitHub.Helpers.Git|Loading commits for repo: C:\Users\hputman\Documents\GitHub\Kiado
+2013-09-20 17:57:38.0384|INFO|thread:1|GitHub.Models.Sync|Getting ahead/behind counts but skipping the fetch.
+2013-09-20 17:57:38.0384|INFO|thread:4|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:57:38.0384|INFO|thread:15|GitHub.Helpers.GitRemote|Detecting ahead/behind info for branch: multiblock-edit.
+2013-09-20 17:57:38.0934|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch master, refs/heads/master, refs/remotes/origin/master
+2013-09-20 17:57:38.0934|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch multiblock-edit, refs/heads/multiblock-edit, refs/remotes/origin/multiblock-edit
+2013-09-20 17:57:38.0934|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch tx-editor, refs/heads/tx-editor, 
+2013-09-20 17:57:38.0934|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch viewer-integration, refs/heads/viewer-integration, refs/remotes/origin/viewer-integration
+2013-09-20 17:57:38.0934|INFO|thread:1|GitHub.ViewModels.BranchesViewModel|Parsing branch qa, refs/heads/qa, refs/remotes/origin/qa
+2013-09-20 17:57:40.1314|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.ShellViewModel.
+2013-09-20 17:57:40.1314|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Deactivating GitHub.ViewModels.RepositoryViewModel.
+2013-09-20 17:57:40.1314|INFO|thread:1|GitHub.Extensions.ReactiveScreen|Closed GitHub.ViewModels.RepositoryViewModel.
